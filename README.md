@@ -1,4 +1,4 @@
-# css_grid and flex box.
+# css grid and flex box.
 
 I have recently been implementing css grids into a project, and found the adaptablity of movement rather fun to play with.
 
