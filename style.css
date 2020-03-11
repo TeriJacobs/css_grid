@@ -1,3 +1,59 @@
+@media only screen and (max-width: 599px){
+    body{
+        margin:0;
+        
+        }
+
+        .grid-container{
+            width: 100%;
+            height: 100vh;
+                    
+        }
+
+        .mobile-box{
+            height: 200px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .grid-1{
+            background-color: lightblue;
+            
+
+        }
+    
+        .grid-2{
+            background-color: lightyellow;
+        }
+    
+        .grid-3{
+            background-color: lightcoral;
+        }
+    
+        .grid-4{
+            background-color: lightgreen;
+
+        }
+    
+        .grid-5{
+            background-color: lightpink;
+
+        }
+    
+        .grid-6{
+            background-color: lightslategray;
+
+        }
+    
+        .grid-7{
+            background-color: lightsteelblue;
+
+        }
+    
+}
+
+@media only screen and (min-width: 600px){
+
 body{
     margin:0;
 }
@@ -60,3 +116,4 @@ body{
         grid-row: 2/3;
         grid-column:6/7;
     }
+}
